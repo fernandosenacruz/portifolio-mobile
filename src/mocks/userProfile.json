@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "FATnando Sena",
+  "bio": "Desenvolvedor Web Fullstack | React.js - Next.js - Typescript - Python - Node.js - Mysql - Mongodb | Enfermeiro",
+  "contacts": {
+    "email": "fernandosenacruz@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/fernandosenacruz/",
+    "github": "https://github.com/fernandosenacruz"
+  }
+}

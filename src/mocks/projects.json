@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Coach da depressão",
+    "description": "API com frases 'desmotivacionais' com finalidade humorística.",
+    "link": "https://github.com/fernandosenacruz/CDD_back-end",
+    "imageUrl": "cdd.png",
+    "techStack": ["Node.js", "TypeScript", "Express", "Prisma", "PostgreSQL", "Docker", "Jest", "JWT"]
+  },
+  {
+    "id": 2,
+    "title": "Site Portfólio",
+    "description": "Portfólio pessoal feito com HTML, CSS e JavaScript.",
+    "imageUrl": "portfolio-web.mp4",
+    "link": "https://fatnando-portfolio-cg38.vercel.app/",
+    "techStack": ["HTML","CSS","JavaScript"]
+  }
+]
