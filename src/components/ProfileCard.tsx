@@ -35,7 +35,7 @@ const ProfileCard: React.FC<ProfileCardProps> = ({
                 style={{ alignItems: 'center'}}
                 resizeMode='cover'
             />
-            <Card.Content>
+            <Card.Content style={{ alignItems: 'flex-start', justifyContent: 'center', marginTop: 10 }}>
                 <Text variant="titleLarge">{name}</Text>
                 <Text variant="bodyMedium">{bio}</Text>
                 <Text variant="bodySmall">Email: {email}</Text>
